@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Anton0");
         System.out.println("Anton8");
          System.out.println("Hello Keks");
-        System.out.println("fdsfdsfsd");
+         System.out.println("Hello Keksff");
     }
 }
