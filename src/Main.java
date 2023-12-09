@@ -4,7 +4,7 @@ public class Main {
 int c = 8;
         System.out.println("Anton8");
          System.out.println("Hello Keks");
-         System.out.println("Hello Keksff");
+         System.out.println("Приветики- пистолетики");
          int a = 1;
          int b = 6;
          int d = 7;
