@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello Elena");
 int c = 8;
         System.out.println("Anton8");
-         System.out.println("Hello Keks");
+         System.out.println("Привет");
          System.out.println("Hello Keksff");
          int a = 1;
          int b = 6;
